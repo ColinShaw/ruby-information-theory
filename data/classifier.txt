@@ -1,0 +1,7 @@
+SKY     |  TEMPERATURE  |   HUMIDITY  |   WIND  |  PLAY
+Cloudy  |  Warm         |   Low       |   Low   |  Yes
+Rainy   |  Cold         |   Medium    |   Low   |  No
+Sunny   |  Warm         |   Medium    |   Low   |  Yes
+Sunny   |  Hot          |   High      |   High  |  No
+Snow    |  Cold         |   Low       |   High  |  No
+Rainy   |  Warm         |   High      |   Low   |  Yes
